@@ -181,23 +181,18 @@ export const footerData = {
   networks: [
     {
       id: nanoid(),
-      name: 'twitter',
+      name: 'youtube',
       url: '', // your twitter url
     },
     {
       id: nanoid(),
-      name: 'codepen',
+      name: 'wordpress',
       url: '', // your codepen url
     },
     {
       id: nanoid(),
-      name: 'linkedin',
+      name: 'facebook',
       url: '', // your linkedin url
-    },
-    {
-      id: nanoid(),
-      name: 'github',
-      url: '', // your github url
     },
   ],
 };
