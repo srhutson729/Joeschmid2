@@ -1,7 +1,7 @@
-import React, {useState, useEffect} from 'react';
-import { FaBars, Fatimes} from "react-icons/fa";
-import { IconContext } from "react-icons";
-import {Nav, NavbarContainer, NavLogo, MobileIcon} from "./NavbarElements";
+import React, { useEffect, useState  } from 'react'
+import { FaBars, FaTimes} from "react-icons/fa"
+import {IconContext} from "react-icons/lib"
+import {Nav, NavbarContainer, NavLogo, MobileIcon} from "./NavbarElements"
 
 const Navbar = () => {
     const [click, setClick] = useState(false)
@@ -40,4 +40,4 @@ const Navbar = () => {
  )
 }
 
-export default NavBar
+export default Navbar

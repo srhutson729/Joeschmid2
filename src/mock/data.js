@@ -59,17 +59,17 @@ export const footerData = {
   networks: [
     {
       id: nanoid(),
-      name: 'FaYoutube',
+      name: 'youtube',
       url: 'https://www.youtube.com/channel/UCvWRKmcplBTYQS49AVGsLgw',
     },
     {
       id: nanoid(),
-      name: 'FaWordpress',
+      name: 'wordpress',
       url: 'https://majestyofreason.wordpress.com/',
     },
     {
       id: nanoid(),
-      name: 'FaFacebook' ,
+      name: 'facebook' ,
       url: 'https://www.facebook.com/joe.schmid.338658/',
     },
     ],
